@@ -1,0 +1,2 @@
+#!lbin/bash
+cat /etc/passwd /etc/hosts
